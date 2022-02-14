@@ -1,0 +1,30 @@
+{
+  "name": "require-esm",
+  "version": "0.0.1",
+  "description": "require( ESM modules) in CommonJS modules.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SamGoody/require-esm-in-cjs.git"
+  },
+  "keywords": [
+    "require",
+    "ESM",
+    "CommonJS",
+    "CJS",
+    "export",
+    "import"
+  ],
+  "author": "SamGoody",
+  "license": "AGPL-1.0-or-later",
+  "bugs": {
+    "url": "https://github.com/SamGoody/require-esm-in-cjs/issues"
+  },
+  "homepage": "https://github.com/SamGoody/require-esm-in-cjs#readme",
+  "dependencies": {
+    "deasync": "^0.1.24"
+  }
+}
