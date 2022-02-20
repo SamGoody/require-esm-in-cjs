@@ -1,6 +1,6 @@
 {
   "name": "require-esm-in-cjs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Enable `require( ESM / EcmaScript Module )` in CommonJS / CJS modules.",
   "main": "src/index.js",
   "scripts": {
